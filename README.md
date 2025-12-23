@@ -64,6 +64,3 @@ I believe that learning is a continuous process. Every dataset tells a story, an
 📫 **Let’s connect and grow together!**
 
 Thanks for visiting my GitHub profile ✨
-
-- ⚡ Fun fact: ...
--->
