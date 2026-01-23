@@ -1,66 +1,54 @@
-# Hi there 👋, I'm Dara
+# Hi, I'm Dara 👋
 
-🎓 **Geodesy Engineering Graduate**
-📊 **Aspiring Data Analyst**
+I am a Geodesy Engineering graduate with a strong interest in working with data, structured information, and reporting. Through academic activities, internships, and self-learning projects, I have developed experience in data processing, analysis, and documentation to support administrative and analytical tasks.
 
----
-
-## 👩‍💻 About Me
-
-I am a Geodesy Engineering graduate with a strong interest in **Data Analysis**. Currently, I am building my skills in analyzing, cleaning, and transforming data to generate meaningful insights.
-
-I enjoy working with data, learning new tools, and continuously improving my analytical thinking. My background in geospatial engineering has trained me to work with data accurately, systematically, and logically.
+This GitHub repository contains selected projects that demonstrate my ability to work with data in a structured, accurate, and systematic manner using tools such as Microsoft Excel, SQL, Python, and data visualization platforms.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔎 What I Do
 
-* **Programming & Analysis**: Python, SQL, Excel
-* **Database**: SQL, PostgreSQL, SQL Server (SSMS)
-* **Visualization**: Power BI, Tableau
-* **Spreadsheet**: Microsoft Excel
-* **Tools**: VS Code, GitHub
+- Data processing, cleaning, and validation  
+- Data analysis for reporting and decision support  
+- Spreadsheet-based analysis using Microsoft Excel  
+- SQL-based data exploration and business analysis  
+- Data visualization and dashboard creation  
+- Structured documentation and reporting  
 
----
-
-## 📂 Featured Projects
-
-Here are some projects that reflect my learning journey:
-
-* 📌 **Data Cleaning & Formatting Project**
-  Cleaning and preparing raw data using Python and Pandas, then storing it in PostgreSQL.
-
-* 📌 **SQL Practice & Exploration**
-  Practicing SQL queries for data exploration, aggregation, and analysis.
-
-* 📌 **Business Data Analysis with Excel**
-  Performed data cleaning and formatting using Excel, conducted business data analysis, and created visualizations directly in Excel.
-
-* 📌 **Data Visualization with Tableau**
-Created interactive data visualizations using Tableau based on cleaned data from Excel.
-
-* 📌 **Data Cleaning & Visualization with Power BI**
-Conducted data cleaning, data transformation, and built dashboards using Power BI.
-
-*(More projects coming soon as I continue learning 🌱)*
+These skills are applicable to both **administrative roles** and **data-related positions** that require accuracy, organization, and analytical thinking.
 
 ---
 
-## 🎯 Current Focus
+## 📂 Selected Projects
 
-* Deepening my understanding of **Data Analysis workflows**
-* Improving **SQL & PostgreSQL** skills
-* Improving **Python** skills
-* Building a solid portfolio of data-related projects
+### 📊 Pizza Sales Performance Analysis
+- Processed and analyzed transaction data to evaluate sales performance and product trends  
+- Performed data analysis using SQL and Excel  
+- Created dashboards to support reporting and business insights  
+
+### 🛒 Customer Shopping Behavior Analysis
+- Analyzed customer transaction and behavior data  
+- Conducted exploratory data analysis using Python and SQL  
+- Built dashboards to summarize key insights and patterns  
+
+Each project focuses on transforming raw data into clear, structured, and actionable information.
 
 ---
 
-## 🌱 Learning Philosophy
+## 🛠 Tools & Skills
 
-I believe that learning is a continuous process. Every dataset tells a story, and I am motivated to uncover insights that can support better decision-making.
+- Microsoft Excel (Data Processing, Analysis, Reporting)
+- SQL (Data Analysis & Exploration)
+- Python (Data Cleaning & Analysis)
+- Power BI / Looker (Data Visualization & Dashboards)
+- Data Validation & Documentation
+- Analytical Thinking & Attention to Detail
 
 ---
 
-📫 **Let’s connect and grow together!**
+## 📬 Contact
 
-Thanks for visiting my GitHub profile ✨
+- LinkedIn: linkedin.com/in/darajatiseptiningdiah
+- Email: DaraJati001@gmail.com
+
+Thank you for visiting my GitHub profile.
